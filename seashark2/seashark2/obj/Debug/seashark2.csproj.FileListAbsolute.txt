@@ -1,0 +1,7 @@
+C:\Users\ilyay\source\repos\seashark2\seashark2\bin\Debug\seashark2.exe.config
+C:\Users\ilyay\source\repos\seashark2\seashark2\bin\Debug\seashark2.exe
+C:\Users\ilyay\source\repos\seashark2\seashark2\bin\Debug\seashark2.pdb
+C:\Users\ilyay\source\repos\seashark2\seashark2\obj\Debug\seashark2.csprojResolveAssemblyReference.cache
+C:\Users\ilyay\source\repos\seashark2\seashark2\obj\Debug\seashark2.csproj.CoreCompileInputs.cache
+C:\Users\ilyay\source\repos\seashark2\seashark2\obj\Debug\seashark2.exe
+C:\Users\ilyay\source\repos\seashark2\seashark2\obj\Debug\seashark2.pdb
